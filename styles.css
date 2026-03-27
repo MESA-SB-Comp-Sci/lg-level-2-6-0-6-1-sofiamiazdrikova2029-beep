@@ -1,4 +1,38 @@
 * {
     box-sizing: border-box;
 }
+ .p1{
+    color: yellow;
+ }
+ html{
+    background-color: gray;
+ }
+ .h1{
+    background-color: pink;
+    color: white;
+ }
+ .p2{
+    color: yellowgreen;
+ }
 
+ .p3{
+    color: lightskyblue;
+ }
+ .border1{
+    background-color: white;
+    border: 5px solid orange;
+    height:100px
+    
+ }
+.p4{
+    color: white;
+}
+#f{
+    border: 20px dotted skyblue;
+    background-color:black;
+    
+}
+img{
+    border: 20px dotted skyblue;
+    background-color:aquamarine
+}
